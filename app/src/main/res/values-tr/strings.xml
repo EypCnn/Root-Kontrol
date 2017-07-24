@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Root Kontrol </string>
+
+    <string name="Status">Kök Durumu : Kontrol Edilmedi</string>
+    <string name="rooted">Cihazınızda Kök Bağlantısı Bulundu</string>
+    <string name="not_rooted">Cihazınızda Kök Bağlantısı Bulunamadı</string>
+    <string name="permission_denied">SuperUserden İzin Verilmedi</string>
+    <string name="alt_method">Alternatif Yöntem İle Kontrol Et</string>
+    <string name="busybox_default">BusyBox : Kontrol Edilmedi</string>
+    <string name="yes_busybox">BusyBox Kurulu :</string>
+    <string name="no_busybox">BusyBox Kurulu Değil</string>
+    <string name="su_app_default">SuperUser Uygulaması : Kontrol Edilmedi</string>
+    <string name="su_app">SuperUser Uygulaması :</string>
+
+    <string name="app_unknown">SuperUser Uygulaması : Bilinmiyor</string>
+    <string name="verifying">Kök Kontrol Ediliyor..</string>
+    <string name="wait">Kontrol Ediliyor, Lütfen Bekleyin ..</string>
+    <string name="check_complete">Kontrol Tamamlandı</string>
+
+    <string name="Welcome">SelamünAleyküm!</string>
+    <string name="Description">Kök erişimini doğrulamak için lütfen Kontrol düğmesini tıklayın.</string>
+    <string name="about">Hakkında</string>
+    <string name="dev_name">Cihaz :</string>
+    <string name="exit">Çıkış</string>
+    <string name="Check">Kontrol</string>
+
+</resources>
